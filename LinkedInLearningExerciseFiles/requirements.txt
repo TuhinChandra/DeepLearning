@@ -1,9 +1,9 @@
 numpy
-pip>=9.0.0
+pip
 pandas
-keras==2.0.6
+keras
 h5py
 scikit-learn
 scipy
-tensorflow>=1.0.0
+tensorflow
 google-api-python-client
